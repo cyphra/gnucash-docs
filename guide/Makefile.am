@@ -1,4 +1,4 @@
-SUBDIRS = C de it ja
+SUBDIRS = C de es it ja
 
 gnomehelpdir = $(datadir)/gnome/help/gnucash-guide
 
